@@ -1,4 +1,4 @@
-package com.di.test.services;
+package com.di.app.services;
 
 import com.java.di.annotation.Component;
 import com.java.di.annotation.Inject;

@@ -1,6 +1,6 @@
-package com.di.test;
+package com.di.app;
 
-import com.di.test.services.UserService;
+import com.di.app.services.UserService;
 import com.java.di.container.DIContainer;
 
 public class App {
